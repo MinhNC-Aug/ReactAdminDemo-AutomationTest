@@ -16,11 +16,9 @@
     "url": "https://github.com/MinhNC-Aug/ReactAdminDemo-AutomationTest/issues"
   },
   "homepage": "https://github.com/MinhNC-Aug/ReactAdminDemo-AutomationTest#readme",
-  "dependencies": {
-    "playwright": "^1.58.2"
-  },
   "devDependencies": {
     "@playwright/test": "^1.58.2",
-    "@types/node": "^25.5.0"
+    "@types/node": "^25.5.0",
+    "playwright": "^1.58.2"
   }
 }
